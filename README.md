@@ -135,6 +135,44 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
         <br>GraphQL
       </td>
     </tr>
+    <tr>        
+      <td align="center" width="96">
+        <a href="https://www.npmjs.com/package/json-rules-engine">
+          <img src="./img/cpp.svg" width="48" height="48" alt="JsonEngine" />
+        </a>
+        <br>JsonEngine
+      </td>
+      <td align="center" width="96">
+        <a href="https://console.firebase/">
+          <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
+        </a>
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <a href="https://ai.google/discover/generativeai/">
+          <img src="./img/gen-ai.svg" width="48" height="48" alt="GenAI" />
+        </a>
+        <br>GenAI
+      </td>
+      <td align="center" width="96">
+        <a href="https://spring.io/">
+          <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
+        </a>
+        <br>Spring
+      </td>
+      <td align="center" width="96">
+        <a href="https://laravel.com/">
+          <img src="./img/laravel.svg" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <a href="https://graphql.org/">
+          <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+      </td>
+    </tr>
   </table>
 </div>
 
