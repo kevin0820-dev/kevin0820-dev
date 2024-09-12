@@ -8,15 +8,15 @@
 
 When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟
 
-<b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
+ <b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
 
-- Seasoned full-stack developer proficient in MERN, MEAN stack, GraphQL, Firebase, and Google Cloud
-- Expert in version control with Git, ensuring efficient collaboration and code management
-- Skilled mobile app developer using Flutter and React Native, with seamless backend integration
-- Currently developing a Guard Management System using Flutter, Firebase, and Java Spring Boot
-- Actively integrating AI technologies (GPT, NLP) to enhance search capabilities and personalize user experiences
-- Strong background in algorithm design and optimization for efficient problem-solving
-- Passionate about leveraging cutting-edge technologies to create innovative solutions
+- 🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">MEAN</span> stack, <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span>
+- 🔄 Expert in version control with <span style="color: #F05032;">Git</span>, ensuring efficient collaboration and code management
+- 📱 Skilled mobile app developer using <span style="color: #02569B;">Flutter</span> and <span style="color: #61DAFB;">React Native</span>, with seamless backend integration
+- 🛡️ Currently developing a Guard Management System using <span style="color: #02569B;">Flutter</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #6DB33F;">Java Spring Boot</span>
+- 🤖 Actively integrating AI technologies (<span style="color: #10A37F;">GPT</span>, <span style="color: #3B5998;">NLP</span>) to enhance search capabilities and personalize user experiences
+- 🧠 Strong background in <span style="color: #FFA116;">algorithm design</span> and <span style="color: #FF6B6B;">optimization</span> for efficient problem-solving
+- 💡 Passionate about leveraging cutting-edge technologies to create innovative solutions
   
 <h3 align="center">Experieceful skills</h3>
 <div align="center">
