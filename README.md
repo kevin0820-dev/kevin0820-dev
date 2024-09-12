@@ -1,16 +1,22 @@
-- 👋 Hi, I’m @kevin0820-dev
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Generative AI and biomedical informatics
-- 💞️ I’m looking to collaborate on LobeHub
-- 📫 This is my gmail : kevin5877066@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
 
-<b>Here is a talented passionate who expert in development of web & mobile application with AI.</b> 👋
-- Modern web developer using MERN, MEAN stack, GraphQL, Firebase, Google cloud.
-- Smart mobile app developer skillful in Flutter and React Native, fast interaction with backend.
-- I’m currently working on Guard management system using Flutter & Firebase & JavaSpringboot.
-- I'm trying to integrate AI(gpt, NLP ...) into current project to enhance seamless search capability and personalize user experience.
+- 🚀 Passionate about pushing the boundaries of AI and turning coffee into code
+- 🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics
+- 🤝 Eager to collaborate on LobeHub and other mind-blowing projects
+- 📫 Drop me a line at kevin5877066@gmail.com - I promise I don't byte! 😉
+- 💡 Fun fact: I can debug code faster than I can decide what to have for lunch
+
+When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟
+
+<b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
+
+- Seasoned full-stack developer proficient in MERN, MEAN stack, GraphQL, Firebase, and Google Cloud
+- Expert in version control with Git, ensuring efficient collaboration and code management
+- Skilled mobile app developer using Flutter and React Native, with seamless backend integration
+- Currently developing a Guard Management System using Flutter, Firebase, and Java Spring Boot
+- Actively integrating AI technologies (GPT, NLP) to enhance search capabilities and personalize user experiences
+- Strong background in algorithm design and optimization for efficient problem-solving
+- Passionate about leveraging cutting-edge technologies to create innovative solutions
   
 <h3 align="center">Experieceful skills</h3>
 <div align="center">
