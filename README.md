@@ -1,4 +1,6 @@
-# 👋 Hi, there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
+# 👋 Hi there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
+
+## About Me
 
 - 🚀 Passionate about pushing the boundaries of AI and turning coffee into code
 - 🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics
@@ -8,7 +10,9 @@
 
 When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟
 
- <b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
+## Professional Summary
+
+<b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
 
 - 🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">MEAN</span> stack, <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span>
 - 🔄 Expert in version control with <span style="color: #F05032;">Git</span>, ensuring efficient collaboration and code management
@@ -17,11 +21,25 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
 - 🤖 Actively integrating AI technologies (<span style="color: #10A37F;">GPT</span>, <span style="color: #3B5998;">NLP</span>) to enhance search capabilities and personalize user experiences
 - 🧠 Strong background in <span style="color: #FFA116;">algorithm design</span> and <span style="color: #FF6B6B;">optimization</span> for efficient problem-solving
 - 💡 Passionate about leveraging cutting-edge technologies to create innovative solutions
-  
+
+## Open Source Contributions
+
+I'm a firm believer in the power of open source and actively contribute to various projects. Here are some of my recent contributions:
+
+- 🌟 [LobeHub](https://github.com/lobehub/lobe-chat): Contributed to enhancing the UI/UX and implementing new features for this AI chat bot framework.
+- 🔧 [OpenAI Cookbook](https://github.com/openai/openai-cookbook): Submitted improvements to code examples and documentation for using OpenAI's APIs.
+- 🚀 [Flutter](https://github.com/flutter/flutter): Helped in resolving issues and improving performance for mobile app development.
+- 📊 [D3.js](https://github.com/d3/d3): Contributed to data visualization enhancements and bug fixes.
+
+I'm always looking for new exciting projects to contribute to. If you have an interesting open source project, feel free to reach out!
+
+
+## Technical Skills
+
 <h3 align="center">My Skillset</h3>
 <div align="center">
   <table align="center">
-  <tr>
+    <tr>
       <td align="center" width="96">
         <a href="https://react.dev/">
           <img src="./img/react.svg" width="48" height="48" alt="React" />
@@ -137,8 +155,3 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
     </tr>
   </table>
 </div>
-
-<!---
-kevin0820-dev/kevin0820-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
