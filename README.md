@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
+# 👋 Hi, there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
 
 - 🚀 Passionate about pushing the boundaries of AI and turning coffee into code
 - 🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics
@@ -22,45 +22,7 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="96">
-        <a href="https://nodejs.org/en">
-          <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-        </a>
-        <br>NodeJS
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mongodb.com/">
-          <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <a href="https://expressjs.com/">
-          <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
-        </a>
-        <br>ExpressJS
-      </td>
-      <td align="center" width="96">
-        <a href="https://react.dev/">
-          <img src="./img/react.svg" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <a href="https://redux.js.org/">
-          <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
-        </a>
-        <br>Redux
-      </td>
-      <td align="center" width="96">
-        <a href="https://nextjs.org/">
-          <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
-        </a>
-        <br>NextJS
-      </td>    
-    </tr>
-    <tr>
-      <td align="center" width="96">
+            <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
         </a>
@@ -79,23 +41,61 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
         <br>Python
       </td>
       <td align="center" width="96">
-        <a href="https://graphql.org/">
-          <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
+        <a href="https://nodejs.org/en">
+          <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
         </a>
-        <br>GraphQL
-      </td>  
-          <td align="center" width="96">
+        <br>NodeJS
+      </td>
+      <td align="center" width="96">
+        <a href="https://expressjs.com/">
+          <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+        </a>
+        <br>ExpressJS
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/">
+          <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://react.dev/">
+          <img src="./img/react.svg" width="48" height="48" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="https://redux.js.org/">
+          <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+        </a>
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <a href="https://nextjs.org/">
+          <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+        </a>
+        <br>NextJS
+      </td>    
+      <td align="center" width="96">
         <a href="https://angular.org/">
           <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
         </a>
         <br>Angular
       </td>
-          <td align="center" width="96">
+      <td align="center" width="96">
         <a href="https://pub.dev/">
           <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
         </a>
         <br>Flutter
       </td>
+      <td align="center" width="96">
+        <a href="https://graphql.org/">
+          <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+      </td>  
     </tr>
     <tr>        
       <td align="center" width="96">
