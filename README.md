@@ -20,7 +20,7 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
   
 <h3 align="center">My Skillset</h3>
 <div align="center">
-    <table align="center">
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
