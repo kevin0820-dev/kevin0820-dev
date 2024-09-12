@@ -1,144 +1,86 @@
-# 👋 Hey there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kevin0820-dev - Full-Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h3 {
+            color: #2c3e50;
+        }
+        .skills-table {
+            border-collapse: collapse;
+            margin: 0 auto;
+        }
+        .skills-table td {
+            text-align: center;
+            padding: 10px;
+        }
+        .skills-table img {
+            width: 48px;
+            height: 48px;
+        }
+    </style>
+</head>
+<body>
+    <h1>👋 Hey there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️</h1>
 
-- 🚀 Passionate about pushing the boundaries of AI and turning coffee into code
-- 🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics
-- 🤝 Eager to collaborate on LobeHub and other mind-blowing projects
-- 📫 Drop me a line at kevin5877066@gmail.com - I promise I don't byte! 😉
-- 💡 Fun fact: I can debug code faster than I can decide what to have for lunch
+    <ul>
+        <li>🚀 Passionate about pushing the boundaries of AI and turning coffee into code</li>
+        <li>🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics</li>
+        <li>🤝 Eager to collaborate on LobeHub and other mind-blowing projects</li>
+        <li>📫 Drop me a line at kevin5877066@gmail.com - I promise I don't byte! 😉</li>
+        <li>💡 Fun fact: I can debug code faster than I can decide what to have for lunch</li>
+    </ul>
 
-When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟
+    <p>When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟</p>
 
- <b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
+    <h2><b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋</h2>
 
-- 🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">MEAN</span> stack, <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span>
-- 🔄 Expert in version control with <span style="color: #F05032;">Git</span>, ensuring efficient collaboration and code management
-- 📱 Skilled mobile app developer using <span style="color: #02569B;">Flutter</span> and <span style="color: #61DAFB;">React Native</span>, with seamless backend integration
-- 🛡️ Currently developing a Guard Management System using <span style="color: #02569B;">Flutter</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #6DB33F;">Java Spring Boot</span>
-- 🤖 Actively integrating AI technologies (<span style="color: #10A37F;">GPT</span>, <span style="color: #3B5998;">NLP</span>) to enhance search capabilities and personalize user experiences
-- 🧠 Strong background in <span style="color: #FFA116;">algorithm design</span> and <span style="color: #FF6B6B;">optimization</span> for efficient problem-solving
-- 💡 Passionate about leveraging cutting-edge technologies to create innovative solutions
-  
-<h3 align="center">Experieceful skills</h3>
-<div align="center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/en">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/">
-        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com/">
-        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="https://react.dev/">
-        <img src="./img/react.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://redux.js.org/">
-        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>    
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Typescript
-    </td>    
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://graphql.org/">
-        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>  
-        <td align="center" width="96">
-      <a href="https://angular.org/">
-        <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-        <td align="center" width="96">
-      <a href="https://pub.dev/">
-        <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-  </tr>
-  <tr>        
-    <td align="center" width="96">
-      <a href="https://www.npmjs.com/package/json-rules-engine">
-        <img src="./img/json-engine.svg" width="48" height="48" alt="JsonEngine" />
-      </a>
-      <br>JsonEngine
-    </td>
-    <td align="center" width="96">
-      <a href="https://console.firebase/">
-        <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="https://ai.google/discover/generativeai/">
-        <img src="./img/gen-ai.svg" width="48" height="48" alt="GenAI" />
-      </a>
-      <br>GenAI
-    </td>
-        <td align="center" width="96">
-      <a href="https://spring.io/">
-        <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-            <td align="center" width="96">
-      <a href="https://laravel.com/">
-        <img src="./img/laravel.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-            <td align="center" width="96">
-      <a href="https://reactnative.dev/">
-        <img src="./img/react.svg" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr>
-</table>
-</div>
+    <ul>
+        <li>🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">MEAN</span> stack, <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span></li>
+        <li>🔄 Expert in version control with <span style="color: #F05032;">Git</span>, ensuring efficient collaboration and code management</li>
+        <li>📱 Skilled mobile app developer using <span style="color: #02569B;">Flutter</span> and <span style="color: #61DAFB;">React Native</span>, with seamless backend integration</li>
+        <li>🛡️ Currently developing a Guard Management System using <span style="color: #02569B;">Flutter</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #6DB33F;">Java Spring Boot</span></li>
+        <li>🤖 Actively integrating AI technologies (<span style="color: #10A37F;">GPT</span>, <span style="color: #3B5998;">NLP</span>) to enhance search capabilities and personalize user experiences</li>
+        <li>🧠 Strong background in <span style="color: #FFA116;">algorithm design</span> and <span style="color: #FF6B6B;">optimization</span> for efficient problem-solving</li>
+        <li>💡 Passionate about leveraging cutting-edge technologies to create innovative solutions</li>
+    </ul>
 
-<!---
-kevin0820-dev/kevin0820-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <h3 align="center">Experienced skills</h3>
+    <table class="skills-table">
+        <tr>
+            <td><img src="./img/nodejs.svg" alt="NodeJS"><br>NodeJS</td>
+            <td><img src="./img/mongodb.svg" alt="MongoDB"><br>MongoDB</td>
+            <td><img src="./img/expressjs.svg" alt="ExpressJS"><br>ExpressJS</td>
+            <td><img src="./img/react.svg" alt="React"><br>React</td>
+            <td><img src="./img/redux.svg" alt="Redux"><br>Redux</td>
+            <td><img src="./img/nextjs.svg" alt="NextJS"><br>NextJS</td>
+        </tr>
+        <tr>
+            <td><img src="./img/javascript.svg" alt="JavaScript"><br>Javascript</td>
+            <td><img src="./img/typescript.svg" alt="TypeScript"><br>Typescript</td>
+            <td><img src="./img/python.svg" alt="Python"><br>Python</td>
+            <td><img src="./img/graphql.svg" alt="GraphQL"><br>GraphQL</td>
+            <td><img src="./img/angular.svg" alt="Angular"><br>Angular</td>
+            <td><img src="./img/flutter.svg" alt="Flutter"><br>Flutter</td>
+        </tr>
+        <tr>
+            <td><img src="./img/json-engine.svg" alt="JsonEngine"><br>JsonEngine</td>
+            <td><img src="./img/firebase.svg" alt="Firebase"><br>Firebase</td>
+            <td><img src="./img/gen-ai.svg" alt="GenAI"><br>GenAI</td>
+            <td><img src="./img/spring.svg" alt="Spring"><br>Spring</td>
+            <td><img src="./img/laravel.svg" alt="Laravel"><br>Laravel</td>
+            <td><img src="./img/react.svg" alt="React Native"><br>React Native</td>
+        </tr>
+    </table>
+</body>
+</html>
