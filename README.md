@@ -20,7 +20,7 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
   
 <h3 align="center">My Skillset</h3>
 <div align="center">
-      <table align="center">
+    <table align="center">
     <tr>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -46,6 +46,18 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
         </a>
         <br>NodeJS
       </td>
+      <td align="center" width="96">
+        <a href="https://expressjs.com/">
+          <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+        </a>
+        <br>ExpressJS
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/">
+          <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -54,6 +66,18 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
         </a>
         <br>React
       </td>
+      <td align="center" width="96">
+        <a href="https://redux.js.org/">
+          <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+        </a>
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <a href="https://nextjs.org/">
+          <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+        </a>
+        <br>NextJS
+      </td>    
       <td align="center" width="96">
         <a href="https://angular.org/">
           <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
@@ -73,18 +97,12 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
         <br>React Native
       </td>
     </tr>
-    <tr>
+    <tr>        
       <td align="center" width="96">
-        <a href="https://expressjs.com/">
-          <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+        <a href="https://www.npmjs.com/package/json-rules-engine">
+          <img src="./img/json-engine.svg" width="48" height="48" alt="JsonEngine" />
         </a>
-        <br>ExpressJS
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mongodb.com/">
-          <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
+        <br>JsonEngine
       </td>
       <td align="center" width="96">
         <a href="https://console.firebase/">
@@ -93,24 +111,28 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
         <br>Firebase
       </td>
       <td align="center" width="96">
-        <a href="https://graphql.org/">
-          <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
-        </a>
-        <br>GraphQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96" colspan="2">
         <a href="https://ai.google/discover/generativeai/">
           <img src="./img/gen-ai.svg" width="48" height="48" alt="GenAI" />
         </a>
         <br>GenAI
       </td>
-      <td align="center" width="96" colspan="2">
-        <a href="https://www.npmjs.com/package/json-rules-engine">
-          <img src="./img/json-engine.svg" width="48" height="48" alt="JsonEngine" />
+      <td align="center" width="96">
+        <a href="https://spring.io/">
+          <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
         </a>
-        <br>JsonEngine
+        <br>Spring
+      </td>
+      <td align="center" width="96">
+        <a href="https://laravel.com/">
+          <img src="./img/laravel.svg" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <a href="https://graphql.org/">
+          <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
       </td>
     </tr>
   </table>
