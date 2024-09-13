@@ -1,14 +1,10 @@
-# 👋 Hi there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
+# 👋 Hi there, I'm kevin! 🧙‍♂️
 
-## About Me
-
-- 🚀 Passionate about pushing the boundaries of AI and turning coffee into code
-- 🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics
-- 🤝 Eager to collaborate on LobeHub and other mind-blowing projects
-- 📫 Drop me a line at kevin5877066@gmail.com - I promise I don't byte! 😉
-- 💡 Fun fact: I can debug code faster than I can decide what to have for lunch
-
-When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ## Professional Summary
 
