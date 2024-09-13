@@ -148,10 +148,6 @@ I'm always looking for new exciting projects to contribute to. If you have an in
       </td>
     </tr>
   </table>
-  <p>
-    <h3>My current steak</h3>
-    <img title="Kevin's streak" alt="Kevin's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kevin0820-dev&theme=monokai-metallian&hide_border=true"/>
-  </p>
   <p align="center">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kevin0820-dev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin0820-dev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
