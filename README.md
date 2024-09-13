@@ -154,9 +154,7 @@ I'm always looking for new exciting projects to contribute to. If you have an in
     </summary>
     <h3>🔥 Streak Stats</h3>
     <p>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img title="Kevin's streak" alt="Kevin's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-      </a>
     </p>
 
       <h3>💻 GitHub Profile Stats</h3>
